@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>53654818</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART003094597</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="001226">
+        <issn>1598-7434</issn>
+        <journal-name>현상학과 현대철학</journal-name>
+        <publisher-name>한국현상학회</publisher-name>
+        <kci-registration>등재</kci-registration>
+        <foreign-registration />
+        <pub-year>2024</pub-year>
+        <pub-mon>06</pub-mon>
+        <volume />
+        <issue>101</issue>
+      </journalInfo>
+      <articleInfo article-id="ART003094597">
+        <article-categories>인문학 &gt; 철학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <article-language>한국어</article-language>
+        <title-group>
+          <article-title lang="original"><![CDATA[모리스 메를로-퐁티 윤리학의비극성에 대하여]]></article-title>
+          <article-title lang="foreign"><![CDATA[Concerning the tragic characteristics in Maurice Merleau-Ponty’s Ethics]]></article-title>
+          <article-title lang="english"><![CDATA[Concerning the tragic characteristics in Maurice Merleau-Ponty’s Ethics]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1" author-part="단독">
+            <name><![CDATA[신혜영]]></name>
+            <name-eng><![CDATA[Hyeyoung Shin]]></name-eng>
+            <institution>건국대학교</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[본 연구의 목적은 모리스 메를로-퐁티 윤리학의 비극적 특성을 밝히는 것이다. 철학함에 있어 경험의 장을 떠나지 않는 메를로-퐁티는 끊임없이 추상적 도덕성을 비판하고 도덕성이란 실천의 장에서만 가능함을 강조한다. 그렇다면 실천의 장에서 이루어지는 도덕성이란 어떤 모습인가. 메를로-퐁티에게서 주체는 사유 주체가 아닌 신체 주체이다. 신체 주체는 상호주체성을 내포하고 있기에 도덕적 주체이다. 도덕적 주체는 상호이익을 생각해야 하지만, 나와 타인의 관계가 언제나 도덕적인 것은 아니며, 그렇다고 해서 언제나 비도덕적인 것도 아니다. 도덕적 주체로서의 신체 주체는 타자를 사랑하되 그 사랑은 차별적이며, 또한 의도하지 않은 폭력을 행하기도 한다. 메를로-퐁티적인 도덕성, 즉 관계 속에서 만들어지는 도덕성이란 결국 타자에 대한 염려(혹은 사랑)와 타자에 대한 폭력 모두를, 경우에 따라서는 동시에, 발생시킬 수 있는 것이다. 이것이 바로 메를로-퐁티가 드러내 보이고자 했던 ‘비극적’이지만 비로소 유일하게 ‘진정한’ 윤리학의 모습이다.]]></abstract>
+          <abstract lang="english"><![CDATA[The purpose of this study is to reveal the tragic characteristics in Maurice Merleau-Ponty’s ethics. Merleau-Ponty, who does not leave the field of experience in philosophy, constantly criticizes abstract morality and emphasizes that morality is only possible in the field of practice. Then, what is the morality that takes place in the field of practice? In Merleau-Ponty, the subject is the body subject, not the thought subject. The body subject is a moral subject because it implies an intersubjectivity. A moral subject has to consider mutual profits, but the relation between I and other is not always moral, and it is not always immoral. The body subject as a moral subject loves the other, but its love is discriminatory, and it also commits unintended violence. The morality in Merleau-Ponty, that is, morality created in a relationship, can eventually cause both concern (or love) for the other and violence against the other, in some cases at the same time. This is the ‘tragic’ that Merleau-Ponty wanted to reveal, but it is the only ‘true’ aspect of ethics.]]></abstract>
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[주체]]></keyword>
+          <keyword><![CDATA[신체]]></keyword>
+          <keyword><![CDATA[익명성]]></keyword>
+          <keyword><![CDATA[개별성]]></keyword>
+          <keyword><![CDATA[타인]]></keyword>
+          <keyword><![CDATA[상호주체성]]></keyword>
+          <keyword><![CDATA[도덕적 주체]]></keyword>
+          <keyword><![CDATA[사랑]]></keyword>
+          <keyword><![CDATA[폭력]]></keyword>
+          <keyword><![CDATA[비극성]]></keyword>
+          <keyword><![CDATA[윤리학]]></keyword>
+          <keyword><![CDATA[메를로-퐁티]]></keyword>
+          <keyword><![CDATA[subject]]></keyword>
+          <keyword><![CDATA[body]]></keyword>
+          <keyword><![CDATA[anonymity]]></keyword>
+          <keyword><![CDATA[individuality]]></keyword>
+          <keyword><![CDATA[other]]></keyword>
+          <keyword><![CDATA[intersubjectivity]]></keyword>
+          <keyword><![CDATA[moral subject]]></keyword>
+          <keyword><![CDATA[love]]></keyword>
+          <keyword><![CDATA[violence]]></keyword>
+          <keyword><![CDATA[tragedy]]></keyword>
+          <keyword><![CDATA[ethics]]></keyword>
+          <keyword><![CDATA[Merleau-Ponty]]></keyword>
+        </keyword-group>
+        <fpage>35</fpage>
+        <lpage>64</lpage>
+        <doi />
+        <citation-count kci="0" wos="0">0</citation-count>
+        <fwci create-dt="2025-08-04">0.0</fwci>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003094597]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+      <referenceInfo>
+        <reference refebibl-id="REF071279187" arti-id="ART002092710" type-code="01" type-name="학술지(정기간행물)">
+          <title>모리스 메를로-퐁티의 현상학과 윤리학 : 도덕적 주체 개념</title>
+          <author>신혜영</author>
+          <journal-name>철학과 현상학 연구</journal-name>
+          <pubi-year>2016</pubi-year>
+          <volume>68</volume>
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF071279188" arti-id="ART002972332" type-code="01" type-name="학술지(정기간행물)">
+          <title>모리스 메를로-퐁티의 신체 주체론과 인격 개념</title>
+          <author>신혜영</author>
+          <journal-name>현상학과현대철학</journal-name>
+          <pubi-year>2023</pubi-year>
+          <volume>97</volume>
+          <isseue />
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF071279189" type-code="03" type-name="단행본">
+          <title>Merleau-Ponty. Le réel et l'imaginaire</title>
+          <author>Bonan, R.</author>
+          <pubilisher />
+          <pubi-year>2003</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF071279190" type-code="03" type-name="단행본">
+          <title>Grundlegung zur Metaphysik der Sitten</title>
+          <author>Kant, I.</author>
+          <pubilisher>박영사</pubilisher>
+          <pubi-year>1992</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF071279191" type-code="03" type-name="단행본">
+          <title>Sur une colonne absente. Ecrits autour de Merleau-Ponty</title>
+          <author>Lefort Cl</author>
+          <pubilisher>Gallimard</pubilisher>
+          <pubi-year>1978</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF071279192" type-code="01" type-name="학술지(정기간행물)">
+          <title>Pensée du temps et recherche éthique</title>
+          <author>Livet, P.</author>
+          <journal-name>Esprit/Changer la culture et la politique, Revue mensuelle</journal-name>
+          <pubi-year>1982</pubi-year>
+          <volume />
+          <isseue>66</isseue>
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF071279193" type-code="03" type-name="단행본">
+          <title>Parcours, premiers écrits jusqu’en 1951, réunis dans un ordre chronologique</title>
+          <author>Merleau-Ponty, M.</author>
+          <pubilisher>Verdier</pubilisher>
+          <pubi-year>1997</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF071279194" type-code="03" type-name="단행본">
+          <title>Parcours deux, 1951-1961, publié avec le concours du Centre National du Livre</title>
+          <author>Merleau-Ponty, M.</author>
+          <pubilisher>Verdier</pubilisher>
+          <pubi-year>2000</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF071279195" type-code="03" type-name="단행본">
+          <title>Phénoménologie de la perception</title>
+          <author>Merleau-Ponty, M.</author>
+          <pubilisher>Gallimard/Bibliothèque des idées</pubilisher>
+          <pubi-year>1945</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF071279196" type-code="03" type-name="단행본">
+          <title>Le primat de la perception et ses conséquences philosophiques, précédé de Projet de travail sur la nature de la Perception(1933) et de La Nature de la Perception(1934)</title>
+          <author>Merleau-Ponty, M.</author>
+          <pubilisher>Verdier</pubilisher>
+          <pubi-year>1996</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF071279197" type-code="03" type-name="단행본">
+          <title>Humanisme et terreur. Essai sur le problème communiste</title>
+          <author>Merleau-Ponty, M.</author>
+          <pubilisher>Gallimard</pubilisher>
+          <pubi-year>1947</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF071279198" type-code="03" type-name="단행본">
+          <title>Sens et non-sens</title>
+          <author>Merleau-Ponty, M.</author>
+          <pubilisher>Gallimard/Bibliothèque de Philosophie</pubilisher>
+          <pubi-year>1996</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF071279199" type-code="01" type-name="학술지(정기간행물)">
+          <title>Eloge de la philosophie et autres essais</title>
+          <author>Merleau-Ponty, M.</author>
+          <journal-name>de Folio Essais</journal-name>
+          <pubi-year>1960</pubi-year>
+          <volume />
+          <isseue>118</isseue>
+          <serno />
+          <page>-</page>
+          <pubilisher>Gallimard/Coll</pubilisher>
+          <doi />
+        </reference>
+        <reference refebibl-id="REF071279200" type-code="03" type-name="단행본">
+          <title>Les aventures de la dialectique</title>
+          <author>Merleau-Ponty, M.</author>
+          <pubilisher>Gallimard</pubilisher>
+          <pubi-year>1955</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF071279201" type-code="03" type-name="단행본">
+          <title>Signes</title>
+          <author>Merleau-Ponty, M.</author>
+          <pubilisher>Gallimard</pubilisher>
+          <pubi-year>1960</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF071279202" type-code="03" type-name="단행본">
+          <title>Le visible et l’invisible, texte établi par Cl. Lefort, accompagné d’un avertissement et d’une postface</title>
+          <author>Merleau-Ponty, M.</author>
+          <pubilisher>Gallimard/Bibliothèque des idées</pubilisher>
+          <pubi-year>1964</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF071279203" type-code="01" type-name="학술지(정기간행물)">
+          <title>Questions en retour sur l'humanisme tragique: De l'éthique aristotélicienne à la phénoménologie merleau-pontyenne</title>
+          <author>Renault, A.</author>
+          <journal-name>Éthique et phénoménologie, Alter, Revue de phénoménologie</journal-name>
+          <pubi-year>2005</pubi-year>
+          <volume />
+          <isseue>13</isseue>
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF071279204" type-code="01" type-name="학술지(정기간행물)">
+          <title>De la négation de l'éthique à une éthique de la négativité: Quelques horizons éthiques de la philosophie de Merleau-Ponty(Ⅰ)</title>
+          <author>Saint Aubert, E.</author>
+          <journal-name>Éthique et phénoménologie, Alter, Revue de phénoménologie</journal-name>
+          <pubi-year>2005</pubi-year>
+          <volume />
+          <isseue>13</isseue>
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF071279205" type-code="03" type-name="단행본">
+          <title>Situation Ⅳ</title>
+          <author>Sartre, J. -P.</author>
+          <pubilisher>생각의 나무</pubilisher>
+          <pubi-year>2009</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF071279206" type-code="03" type-name="단행본">
+          <title>De la violence au totalitarisme: Essai sur la pensée de Camus et de Sartre</title>
+          <author>Werner, E.</author>
+          <pubilisher>그린비</pubilisher>
+          <pubi-year>2012</pubi-year>
+          <page>-</page>
+        </reference>
+      </referenceInfo>
+    </record>
+  </outputData>
+</MetaData>

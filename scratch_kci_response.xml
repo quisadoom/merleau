@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>53654818</key>
+    <apiCode>articleSearch</apiCode>
+    <title><![CDATA[메를로-퐁티]]></title>
+    <page>1</page>
+    <displayCount>10</displayCount>
+  </inputData>
+  <outputData>
+    <result>
+      <total>348</total>
+    </result>
+    <record>
+      <journalInfo>
+        <journal-name>현상학과 현대철학</journal-name>
+        <publisher-name>한국현상학회</publisher-name>
+        <pub-year>2024</pub-year>
+        <pub-mon>06</pub-mon>
+        <volume />
+        <issue>101</issue>
+      </journalInfo>
+      <articleInfo article-id="ART003094597">
+        <article-categories>철학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[모리스 메를로-퐁티 윤리학의비극성에 대하여]]></article-title>
+          <article-title lang="foreign"><![CDATA[Concerning the tragic characteristics in Maurice Merleau-Ponty’s Ethics]]></article-title>
+          <article-title lang="english"><![CDATA[Concerning the tragic characteristics in Maurice Merleau-Ponty’s Ethics]]></article-title>
+        </title-group>
+        <author-group>
+          <author english="Hyeyoung Shin">신혜영(건국대학교)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[본 연구의 목적은 모리스 메를로-퐁티 윤리학의 비극적 특성을 밝히는 것이다. 철학함에 있어 경험의 장을 떠나지 않는 메를로-퐁티는 끊임없이 추상적 도덕성을 비판하고 도덕성이란 실천의 장에서만 가능함을 강조한다. 그렇다면 실천의 장에서 이루어지는 도덕성이란 어떤 모습인가. 메를로-퐁티에게서 주체는 사유 주체가 아닌 신체 주체이다. 신체 주체는 상호주체성을 내포하고 있기에 도덕적 주체이다. 도덕적 주체는 상호이익을 생각해야 하지만, 나와 타인의 관계가 언제나 도덕적인 것은 아니며, 그렇다고 해서 언제나 비도덕적인 것도 아니다. 도덕적 주체로서의 신체 주체는 타자를 사랑하되 그 사랑은 차별적이며, 또한 의도하지 않은 폭력을 행하기도 한다. 메를로-퐁티적인 도덕성, 즉 관계 속에서 만들어지는 도덕성이란 결국 타자에 대한 염려(혹은 사랑)와 타자에 대한 폭력 모두를, 경우에 따라서는 동시에, 발생시킬 수 있는 것이다. 이것이 바로 메를로-퐁티가 드러내 보이고자 했던 ‘비극적’이지만 비로소 유일하게 ‘진정한’ 윤리학의 모습이다.]]></abstract>
+          <abstract lang="english"><![CDATA[The purpose of this study is to reveal the tragic characteristics in Maurice Merleau-Ponty’s ethics. Merleau-Ponty, who does not leave the field of experience in philosophy, constantly criticizes abstract morality and emphasizes that morality is only possible in the field of practice. Then, what is the morality that takes place in the field of practice? In Merleau-Ponty, the subject is the body subject, not the thought subject. The body subject is a moral subject because it implies an intersubjectivity. A moral subject has to consider mutual profits, but the relation between I and other is not always moral, and it is not always immoral. The body subject as a moral subject loves the other, but its love is discriminatory, and it also commits unintended violence. The morality in Merleau-Ponty, that is, morality created in a relationship, can eventually cause both concern (or love) for the other and violence against the other, in some cases at the same time. This is the ‘tragic’ that Merleau-Ponty wanted to reveal, but it is the only ‘true’ aspect of ethics.]]></abstract>
+        </abstract-group>
+        <fpage>35</fpage>
+        <lpage>64</lpage>
+        <doi />
+        <uci />
+        <citation-count kci="0" wos="0">0</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003094597]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>현상학과 현대철학</journal-name>
+        <publisher-name>한국현상학회</publisher-name>
+        <pub-year>2023</pub-year>
+        <pub-mon>06</pub-mon>
+        <volume />
+        <issue>97</issue>
+      </journalInfo>
+      <articleInfo article-id="ART002972332">
+        <article-categories>철학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[모리스 메를로-퐁티의 신체 주체론과 인격 개념]]></article-title>
+          <article-title lang="foreign"><![CDATA[Maurice Merleau-Ponty's Body-Subject Theory and the Notion of a Person]]></article-title>
+          <article-title lang="english"><![CDATA[Maurice Merleau-Ponty's Body-Subject Theory and the Notion of a Person]]></article-title>
+        </title-group>
+        <author-group>
+          <author english="Hyeyoung Shin">신혜영(건국대학교)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[모리스 메를로-퐁티의 신체 주체론이 함축하고 있는 인격 개념은 새로운 윤리를 보여주고 있는 메를로-퐁티의 도덕적 주체의 진면목을 보다 분명하게 드러내 준다. 익명성의 층위를 내포하는 메를로-퐁티적인 인격은 절대적 자기동일성의 견고함 속에서 수련을 통한 인격적 고양으로 도덕성을 실현하는 그러한 인격이 아니다. 인격이 익명성의 층위를 내포한다는 것은 인격이라는 말 자체가 전제하고 있는 이분화 혹은 불일치를 내부로 흡수한다는 것이고, 이것은 인격이 타자와의 관계 속에서 형성되는 것임을 뜻한다. 이를테면 메를로-퐁티의 인격 개념은 인격의 원래 의미인 페르소나에 가깝다. 페르소나가 타자와의 관계에 따르는 것처럼 메를로-퐁티의 인격은 자기 자신과의 불일치를, 즉 익명성을 내포하면서 타자와의 관계 속에서 만들어지는 것이다. 관계주의적 윤리학의 모습을 보여주고 있는 메를로-퐁티 윤리학은 오늘날 그 중요성이 더욱 강조되고 있는 공동체 정신 함양에 도움이 될 것이다.]]></abstract>
+          <abstract lang="english"><![CDATA[The notion of ‘person’ implied by Maurice Merleau-Ponty's body-subject theory reveals the true nature of Merleau-Ponty's moral subject, which shows a new ethics. Merleau-Ponty's notion of ‘person’, which implies a degree of anonymity, is not such a person that realizes morality through personal enhancement through training in the solidity of absolute self-identity. When a person implies a degree of anonymity, it means that the person itself absorbs the dichotomy or inconsistency that presupposes, which means that the person is formed in a relation with another person. Merleau-Ponty's notion of ‘person’ is more of a persona, the original meaning of person. Just as Persona follows the relation with the other, Merleau-Ponty's notion of ‘person’ is created in a relation with the other, implied inconsistency with oneself, that is, anonymity. Merleau-Ponty’s ethics, which shows the appearance of relationalist ethics, will help foster a community spirit whose importance is more emphasized today.]]></abstract>
+        </abstract-group>
+        <fpage>59</fpage>
+        <lpage>88</lpage>
+        <doi />
+        <uci />
+        <citation-count kci="5" wos="0">5</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002972332]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>한국공간디자인학회 논문집</journal-name>
+        <publisher-name>한국공간디자인학회</publisher-name>
+        <pub-year>2025</pub-year>
+        <pub-mon>10</pub-mon>
+        <volume>20</volume>
+        <issue>7</issue>
+      </journalInfo>
+      <articleInfo article-id="ART003260274">
+        <article-categories>실내환경디자인</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[A Study on Kindergarten Spatial Planning Based on Merleau-Ponty’s Theory of Embodied Phenomenology]]></article-title>
+          <article-title lang="foreign"><![CDATA[메를로-퐁티 신체현상학 이론에 기반한 유치원 공간 계획에 관한 연구]]></article-title>
+          <article-title lang="english"><![CDATA[A Study on Kindergarten Spatial Planning Based on Merleau-Ponty’s Theory of Embodied Phenomenology]]></article-title>
+        </title-group>
+        <author-group>
+          <author english="Wang Minghui">왕명회(한서대학교, 융합디자인학과)</author>
+          <author english="Mok Junghoon">목정훈(한서대학교)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[(Background and Purpose) Contemporary child-centered education, increasingly recognizes kindergarten spaces as active agents that shape children’s sensory, cognitive, social, and emotional development, rather than mere containers for instructional activities. Nevertheless, many existing designs remain predominantly adult-centered, prioritizing order, supervision, and manageability over opportunities for bodily experience, perceptual engagement, and emotional connection. Inspired by Maurice Merleau-Ponty’s phenomenology of perception, which positions the body as the primary locus of meaning, this study investigates how spatial design can enable young children to construct meaning through physically interaction, multi-sensory engagement, autonomous exploration, and imaginative play. This approach supports holistic early development and embodied cognition. (Method) An integrative approach combining theoretical analysis and comparative case studies was employed. A conceptual framework was developed by synthesizing literature on embodied cognition, early childhood spatial perception, phenomenology, and educational theory. Seven evaluation dimensions were identified: subjective embodiment, multi-sensory integration, spatial generativity, intercorporeality, perception–action cycle, body schema extension, and activation of boundary spaces. six representative kindergarten projects—three from China and three from international contexts—were selected from ArchDaily publications based on diversity, relevance, and alignment with the framework. Each case was examined through architectural documentation, photographic evidence, and structured observations of spatial use, enabling systematic assessment of design strategies and their impact on children’s perceptual, social, and bodily experiences. (Results) Findings indicate that exemplary international projects employ child-scaled proportions, nonlinear circulation, diverse tactile and visual materials, and modular or reconfigurable units, fostering bodily engagement, cooperative interaction, and autonomous exploration. Children in these environments actively construct spatial meaning through movement, touch, and shared activities, enhancing spatial memory and place attachment. Many Chinese domestic cases emphasize safety and operational efficiency, yet retain adult-oriented scales, linear circulation, and fixed-function layouts, limiting sensory variety, spatial adaptability, and emotional resonance in space use. Across contexts, flexible boundaries, material diversity, and multi-functional layouts consistently emerge as key factors supporting perceptual development, social behavior, and creative exploration. (Conclusions) From a physically phenomenology perspective, kindergartens should be conceived as dynamic, interactive environments where meaning emerges through bodily engagement. Effective strategies include: (1) scaling architectural elements to children’s proportions, (2) embedding multi-sensory experiences through material, light, and texture variation, and (3) designing flexible spaces that allow self-directed reconfiguration and collaborative learning. Such environments function as embedded cognitive systems integrating sensory, motor, and social dimensions to support development holistically. This study provides a structured framework that links educational philosophy with architectural practice. It advocates shifting from “designing for children” to “co-creating with children,” to ensure safe, adaptable, and experientially rich learning environments.]]></abstract>
+          <abstract lang="english"><![CDATA[(Background and Purpose) Contemporary child-centered education, increasingly recognizes kindergarten spaces as active agents that shape children’s sensory, cognitive, social, and emotional development, rather than mere containers for instructional activities. Nevertheless, many existing designs remain predominantly adult-centered, prioritizing order, supervision, and manageability over opportunities for bodily experience, perceptual engagement, and emotional connection. Inspired by Maurice Merleau-Ponty’s phenomenology of perception, which positions the body as the primary locus of meaning, this study investigates how spatial design can enable young children to construct meaning through physically interaction, multi-sensory engagement, autonomous exploration, and imaginative play. This approach supports holistic early development and embodied cognition. (Method) An integrative approach combining theoretical analysis and comparative case studies was employed. A conceptual framework was developed by synthesizing literature on embodied cognition, early childhood spatial perception, phenomenology, and educational theory. Seven evaluation dimensions were identified: subjective embodiment, multi-sensory integration, spatial generativity, intercorporeality, perception–action cycle, body schema extension, and activation of boundary spaces. six representative kindergarten projects—three from China and three from international contexts—were selected from ArchDaily publications based on diversity, relevance, and alignment with the framework. Each case was examined through architectural documentation, photographic evidence, and structured observations of spatial use, enabling systematic assessment of design strategies and their impact on children’s perceptual, social, and bodily experiences. (Results) Findings indicate that exemplary international projects employ child-scaled proportions, nonlinear circulation, diverse tactile and visual materials, and modular or reconfigurable units, fostering bodily engagement, cooperative interaction, and autonomous exploration. Children in these environments actively construct spatial meaning through movement, touch, and shared activities, enhancing spatial memory and place attachment. Many Chinese domestic cases emphasize safety and operational efficiency, yet retain adult-oriented scales, linear circulation, and fixed-function layouts, limiting sensory variety, spatial adaptability, and emotional resonance in space use. Across contexts, flexible boundaries, material diversity, and multi-functional layouts consistently emerge as key factors supporting perceptual development, social behavior, and creative exploration. (Conclusions) From a physically phenomenology perspective, kindergartens should be conceived as dynamic, interactive environments where meaning emerges through bodily engagement. Effective strategies include: (1) scaling architectural elements to children’s proportions, (2) embedding multi-sensory experiences through material, light, and texture variation, and (3) designing flexible spaces that allow self-directed reconfiguration and collaborative learning. Such environments function as embedded cognitive systems integrating sensory, motor, and social dimensions to support development holistically. This study provides a structured framework that links educational philosophy with architectural practice. It advocates shifting from “designing for children” to “co-creating with children,” to ensure safe, adaptable, and experientially rich learning environments.]]></abstract>
+        </abstract-group>
+        <fpage>11</fpage>
+        <lpage>26</lpage>
+        <doi />
+        <uci />
+        <citation-count kci="0" wos="0">0</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003260274]]></url>
+        <verified>N</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>대동철학</journal-name>
+        <publisher-name>대동철학회</publisher-name>
+        <pub-year>2022</pub-year>
+        <pub-mon>12</pub-mon>
+        <volume>101</volume>
+        <issue />
+      </journalInfo>
+      <articleInfo article-id="ART002920469">
+        <article-categories>철학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[M. 메를로-퐁티의 현상학적 언어론]]></article-title>
+          <article-title lang="foreign"><![CDATA[M. Merleau-Ponty’s Phenomenological Linguistic theory]]></article-title>
+          <article-title lang="english"><![CDATA[M. Merleau-Ponty’s Phenomenological Linguistic theory]]></article-title>
+        </title-group>
+        <author-group>
+          <author english="Bae Sang Sik">배상식(대구교육대학교)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[이 논문은 20세기 프랑스의 대표적인 철학자 메를로-퐁티(M. Merleau-Ponty)의 현 상학적 언어론에 대해 해명해 보는 것을 근본 목적으로 삼고 있다. 주지하다시피 메를로- 퐁티는 서구 전통철학에서처럼, 언어 문제를 단순히 인간의 이성이나 정신에서 전개하는 것이 아니라 신체의 ‘지각’으로부터 해명해 보려는 새로운 접근 방식을 시도하였다. 그래 서 그는 ‘언어(말)’를 포함한 모든 표현 작용이 신체의 표현적 기능에 근거함을 주장하면 서, 신체에 의한 언어표현은 그 자체가 모종의 ‘의미’를 생성한다고 주장하였다. 말하자면 그에게 있어서 ‘언어’란 단지 이미 결정된 사유나 개념을 전달하기 위한 기호가 아니라 원 초적인 의미를 담고 있는 생동적인 신체의 표현이라고 할 수 있다.
+본 논문에서는 이러한 메를로-퐁티의 현상학적 언어론을 해명하기 위해 다음과 같은 순서 로 논의를 전개하였다. 먼저, 경험주의와 주지주의의 입장과 그들의 언어관에 대해 살펴보았 는데, 이것은 전통적인 언어관에서 나타나는 문제점을 메를로-퐁티가 어떻게 극복했는지를 보여주기 위한 예비적 고찰인 셈이다. 이어서 메를로-퐁티의 현상학적 언어론을 구체적으로 해명하기 위해 우선, 메를로-퐁티에 있어서 신체에 대한 개념적 설명과 이러한 신체와 지각 의 관계에 대해 살펴보았고, 또한 이러한 그의 신체 ‘지각’과 신체(몸)의 표현활동인 ‘언어’개 념에 대해서도 함께 검토하였다. 다음으로, 그가 주장하는 언어의 의미와 원초적인 말(파롤)이 무엇인지에 대해 해명해 봄으로써, 그가 주장하는 현상학적 언어론의 본질적 의미를 드러내 보고자 하였다. 끝으로, 메를로-퐁티가 주장하는 현상학적 언어론의 기본내용을 간략히 정리 하면서 본 논의를 마무리하였다.]]></abstract>
+          <abstract lang="english"><![CDATA[The fundamental purpose of this thesis is to explain the phenomenological linguistic theory of M. Merleau-Ponty, a leading French philosopher in the 20th century. As in Western traditional philosophy, Merleau-Ponty attempted a new approach to clarify the language problem from the ‘perception’ of the body, rather than simply developing it in human reason or mind. So, he asserted that all expressive actions including ‘language (speech)’ are based on the expressive function of the body, and argued that language expression by the body itself creates some kind of ‘meaning’. In other words, for him, ‘language’ is not simply a sign for conveying pre-determined thoughts or concepts, but a lively physical expression that contains primitive meanings.
+In this paper, the discussion was developed in the following order to explain Merleau-Ponty’s phenomenological linguistic theory. First, we examined the positions of empiricism and intellectualism and their linguistic views, which is a preliminary examination of how Merleau-Ponty overcame the problems of traditional linguistic views. Next, in order to clarify Merleau-Ponty’s phenomenological linguistics in detail, first, we examine the conceptual explanation of the body and the relationship between this body and perception in Merleau-Ponty, and then the relationship between his body ‘perception’ and the body. The concept of ‘language’, which is an expression activity, was examined. And I tried to reveal the essential meaning of his phenomenological linguistic theory by clarifying the meaning of language and what the original word (Parole) is. Finally, this discussion was concluded by briefly summarizing the characteristics of Merleau-Ponty's phenomenological linguistic theory.]]></abstract>
+        </abstract-group>
+        <fpage>118</fpage>
+        <lpage>141</lpage>
+        <doi />
+        <uci />
+        <citation-count kci="0" wos="0">0</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002920469]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>움직임의 철학 : 한국체육철학회지</journal-name>
+        <publisher-name>한국체육철학회</publisher-name>
+        <pub-year>2024</pub-year>
+        <pub-mon>06</pub-mon>
+        <volume>32</volume>
+        <issue>2</issue>
+      </journalInfo>
+      <articleInfo article-id="ART003095328">
+        <article-categories>체육</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[메를로-퐁티의 현상학과 몸철학]]></article-title>
+          <article-title lang="foreign"><![CDATA[Merleau-Ponty’s Phenomenology and Philosophy of the Body]]></article-title>
+          <article-title lang="english"><![CDATA[Merleau-Ponty’s Phenomenology and Philosophy of the Body]]></article-title>
+        </title-group>
+        <author-group>
+          <author english="Ahn Yong Kyu">안용규(한국체육대학교)</author>
+          <author english="Lee Kyung Sook">이경숙(한국체육대학교)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[이 연구는 ‘메를로-퐁티의 현상학과 몸철학’을 주제로 하여, ‘스포츠에서 살아있는 몸, 즉 신체’를 바탕으로 선수의 지각(경험)과 행동을 통해 어떻게 세계를 해석할 수 있는가?, 그리고 ‘스포츠에서 몸의 주체성과 지각은 어떻게 나타나는가?’ 또한 ‘선수의 현상학적인 몸이 경험을 통해 세계를 인식할 수 있는가?’를 신체 도식을 통해 이끌어내고자 하였다. 스포츠 선수의 ‘몸’은 지각적으로 ‘체화된 몸’을 통해서 세계는 표현되고, 운동 형식을 통해 ‘육화된 본질’로 나타난다. 즉 스포츠 현장에서 ‘보이는’, ‘보여지는’ 행위는 선수의 몸에 반향을 일으키고 그것들을 체화하여 또 다른 보이는 것으로 표상한다. 그리고 선수는 주체적으로 자기 스스로의 몸을 통해 지각한 세계와 신체에 남겨진 체화된 속성을 토대로 스포츠로 변환시켜 주는 것이다. 결국 메를로-퐁티 철학은 몸을 단순히 도구로 보지 않고 의식과 세계를 매개하는 중심적인 주체로 인식하는데, 이런 관점에서 스포츠는 신체 활동을 넘어서 인간의 존재 방식과 세계와의 상호작용을 드러내는 중요한 영역이 된다. 다시 말해 스포츠에서 살아있는 몸은 신체를 통해 행위자(선수)로서 행위하는 주체이며, 이 몸은 스포츠 현장에서 나타나는 통로이자, 행위하는 주체의 통로이며 서로에게 관계를 맺고 있는 세계이다. 이는 곧 스포츠에서 심오한 존재론적인 깊이를 더함으로써 스포츠의 폭을 한껏 심화시킨다.]]></abstract>
+          <abstract lang="english"><![CDATA[This study titled “Merleau-Ponty’s Phenomenology and the Philosophy of the Body,” explores how athletes can interpret the world through their perceptions (experiences) and actions based on the living body, i.e., the physical body in sport and how subjectivity and perception of the body manifest in sport. Furthermore, it seeks to elucidate whether an athlete’s phenomenological body can recognize the world through experiences via bodily schema. In sport, an athlete’s body is expressed perceptually through the world as an embodied body and appears as an incarnated essence through the forms of movement. In essence, the acts of seeing and being seen in the sport field resonate within the athlete’s body, embodying these acts and representing them as another visible form. Moreover, the athlete subjectively transforms the world perceived through their own body and the embodied properties left in the body into sport. Ultimately, Merleau-Ponty’s philosophy does not view the body merely as a tool but as a central subject that mediates consciousness and the world. From this perspective, sport transcend physical activity and reveal themselves as a transformative realm that not only displays the mode of human existence and interaction with the world but also has the potential to shape it. In other words, the living body in sport acts as the agent (athlete) through the body, and this body serves as a conduit on the sport field, a pathway for the acting agent, and a world that is not separate but interrelated with each other, fostering a sense of unity and shared experience. This adds a profound ontological depth to sport, significantly deepening the scope of sport.]]></abstract>
+        </abstract-group>
+        <fpage>21</fpage>
+        <lpage>31</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.31694/PM.2024.06.32.2.002]]></doi>
+        <uci />
+        <citation-count kci="7" wos="0">7</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003095328]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>美學(미학)</journal-name>
+        <publisher-name>한국미학회</publisher-name>
+        <pub-year>2025</pub-year>
+        <pub-mon>12</pub-mon>
+        <volume>91</volume>
+        <issue>4</issue>
+      </journalInfo>
+      <articleInfo article-id="ART003282160">
+        <article-categories>철학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA['차이'로서의 예술 : 메를로-퐁티의 '살' 개념을 중심으로]]></article-title>
+          <article-title lang="foreign"><![CDATA[Art as “Difference” : On Merleau-Ponty’s Concept of Flesh]]></article-title>
+          <article-title lang="english"><![CDATA[Art as “Difference” : On Merleau-Ponty’s Concept of Flesh]]></article-title>
+        </title-group>
+        <author-group>
+          <author english="Kim, Minjung">김민정(한국예술종합학교)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[서양 철학사는 오래도록 ‘차이’를 독자적 원리로 사유하지 못하고 동일성의 자기 전개를 매개하는 부차적인 자리에 위치시켜 왔다. 그러나 20세기 이후 프랑스 철학은 ‘차이’를 사유의 중심 범주로 전면화한다. 메를로-퐁티의 ‘살’, 데리다의 ‘차연’, 들뢰즈의 ‘차이 자체’는 서로 다른 철학사적 맥락에서 제기되었지만, 공통적으로 서양 전통 형이상학의 동일성 중심 사유의 전통을 전복시키고 ‘차이’를 철학의 중심 문제로 끌어온다. 특히 이들 세 철학자들은 각기 고유한 예술론을 통해 차이의 실천적 가능성을 확인하고 있는데, 이들은 차이로서의 예술에 대한 사유를 통해, 역으로 철학의 새로운 개념을 창안하고 플라톤 이후 지속되어 온 철학과 예술의 오랜 위계를 전복시킨다. 본 연구는 메를로-퐁티, 데리다, 들뢰즈의 예술론에 나타난 ‘차이’의 원리를 구체화하는 거시적 연구의 첫 단계로, 먼저 메를로-퐁티의 예술론에 나타난 ‘차이’의 원리를 살펴본다. 초기 예술론에서 예술가의 해체적 주체성이 구현하는 창조적 반복으로서의 자유를 기술한 메를로-퐁티는, 이후 의미의 불투명한 발생적 지대를 탐색하는 존재론적 사유를 발전시키면서 예술 언어의 간접성과 살아있는 역사성에 주목한다. 나아가 후기에는 예술이 색, 선, 운동성을 통해 지속적 발생을 보증하는 차이화하는 힘인 키아즘의 원리를 구현하고 있음을 발견하기에 이른다.]]></abstract>
+          <abstract lang="english"><![CDATA[The dominant tradition of Western philosophy has long failed to conceive difference as an autonomous principle, relegating it to a derivative function that merely mediates the self-unfolding of identity. Since the twentieth century, however, French philosophy has brought difference to the forefront of philosophical inquiry. Although Merleau-Ponty’s flesh, Derrida’s différance, and Deleuze’s difference-in-itself arise from distinct philosophical contexts, they share a critical gesture: the subversion of the identity-centered metaphysical paradigm that has shaped Western thought since Plato, and the repositioning of difference as a central philosophical problem.
+Crucially, each of these thinkers develops a unique theory of art through which the practical and transformative potential of difference becomes manifest. Their reflections on art do not merely apply philosophical concepts; rather, they generate new philosophical concepts and overturn the historically entrenched hierarchy between philosophy and art.
+As the first step in a broader project aimed at concretizing the principle of difference as it appears in the aesthetic theories of Merleau-Ponty, Derrida, and Deleuze, the present study focuses on the principle of difference in Merleau-Ponty’s philosophy of art. In his early work, Merleau-Ponty characterizes artistic practice as a form of “creative repetition” grounded in a deconstructive subjectivity. As his thought develops, he turns toward the opaque, pre-reflective field of sense-formation, elaborating an ontology of indirect language, living historicity, and finally the principle of chiasm—a generative force that ensures both differentiation and continuous emergence.]]></abstract>
+        </abstract-group>
+        <fpage>1</fpage>
+        <lpage>40</lpage>
+        <doi />
+        <uci />
+        <citation-count kci="0" wos="0">0</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003282160]]></url>
+        <verified>N</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>美學(미학)</journal-name>
+        <publisher-name>한국미학회</publisher-name>
+        <pub-year>2022</pub-year>
+        <pub-mon>12</pub-mon>
+        <volume>88</volume>
+        <issue>4</issue>
+      </journalInfo>
+      <articleInfo article-id="ART002913491">
+        <article-categories>철학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[메를로-퐁티의 살 존재론에서 '두께'에 관한 고찰]]></article-title>
+          <article-title lang="foreign"><![CDATA[A Study on the ‘Thickness’ in the Ontology of Flesh of Merleau-Ponty]]></article-title>
+          <article-title lang="english"><![CDATA[A Study on the ‘Thickness’ in the Ontology of Flesh of Merleau-Ponty]]></article-title>
+        </title-group>
+        <author-group>
+          <author english="Soo Yong Jung">정수용(홍익대학교)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[본 연구는 메를로-퐁티의 ‘살’ 이론에서 ‘두께’가 의미하는 바가 무엇인지를 되짚어본다. 이를 통해 ‘두께’의 잠재성과 가능성을 밝히고 우리의 실존과 맞물리는 세계의 ‘열림’과 ‘닫힘’을 새롭게 이해하는 데 목적을 둔다. 열린 세계는 상호 교류하는 소통의 세계를 말하며, 닫힌 세계는 단절과 소통 불가능의 세계를 말한다. 우리는 언제나 두 세계를 겪으며 살아간다. 그런데 메를로-퐁티는 존재론적 ‘살’을 통해서 우리의 세계는 항상 ‘상호세계들’- ‘열림’의 세계임을 말한다. 이 점이 메를로-퐁티의 ‘살’ 개념을 재탐색해야 하는 이유가 된다. 
+본고는 세계가 두껍다고 깨달은 알베르 카뮈의 ‘부조리’의 감정과 우리의 실존이 가장 마지막에 부딪히는 벽인 칼 야스퍼스의 ‘한계상황’을 소통이 가능한 ‘상호세계’와 반대되는 ‘닫힘’의 세계로 제시한다. 이어서 메를로-퐁티의 전쟁에 대한 체험으로부터 도출된 사유의 결과인 논문 「2차 대전에 대하여」(1945)를 활용하여, 그가 ‘순수’ 존재에 집중한 이유에 다가간다. 또한 이와 같은 논증의 과정을 통해 반대항의 두 세계를 살의 구조를 매개하여 하나의 세계로 잇는 것을 시도하고 이를 통해 ‘살의 두께’와 ‘살의 관계’가 갖는 의미와 필요성을 밝힌다. 이로써 본고는 닫힌 세계와 열림의 세계는 우리의 지각하는 ‘살의 두께’가 잇는 하나의 세계임을 주장한다. 또한 이것이 메를로-퐁티가 ‘살’을 통해 알려주고자 한 것이며, 이 점에서 살 존재론이 의의가 있다고 주장한다.]]></abstract>
+          <abstract lang="english"><![CDATA[This study looks back at what ‘thickness’ means in Merleau-Ponty’s Notion of ‘Flesh’. Through this, it aims to reveal the potential and possibility of thickness and to understand the opening and closing of the world that interlocks with our existence. An open world refers to a world of mutual exchange and communication, and a closed world refers to a world of disconnection and inability to communicate. We always live in two worlds: open and closed. However, Merleau-Ponty, through ontological flesh, says that our world is always a world of ‘intermondes’-openness. This is a reason to reexamine Merleau-Ponty's concept of ontological flesh. 
+This study gives two examples of the closed world as opposed to the ‘intermondes’. One is Albert Camus's affection of ‘absurdité', who realizes that the world is thick, and the second presents Karl Jaspers' ‘Grenzsituation’, the last wall our existence encounters. Then, using Merleau-Ponty's thesis 「La guerre a eu lieu」(1945), we try to understand why he focused on ‘pure' being. Also, through this process of argumentation, it attempts to connect the two worlds of opposition into one world through the structure of flesh. Through this, the meaning and necessity of ‘thickness of flesh’ and ‘carnal relation’ is revealed. In this way, this paper asserts that the closed world and the open world are one world connected by the thickness of our perceived flesh. Also, argues that this is what Merleau-Ponty is trying to say through the flesh, and that in this regard the ontology of the flesh has significance.]]></abstract>
+        </abstract-group>
+        <fpage>297</fpage>
+        <lpage>331</lpage>
+        <doi />
+        <uci />
+        <citation-count kci="0" wos="0">0</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002913491]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>움직임의 철학 : 한국체육철학회지</journal-name>
+        <publisher-name>한국체육철학회</publisher-name>
+        <pub-year>2022</pub-year>
+        <pub-mon>09</pub-mon>
+        <volume>30</volume>
+        <issue>3</issue>
+      </journalInfo>
+      <articleInfo article-id="ART002880912">
+        <article-categories>체육</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[메를로-퐁티의 현상학: 스타일 개념에서 본 댄스스포츠]]></article-title>
+          <article-title lang="foreign"><![CDATA[Merleau Ponty's Phenomenology: Dance Sport in the Concept of Style]]></article-title>
+          <article-title lang="english"><![CDATA[Merleau Ponty's Phenomenology: Dance Sport in the Concept of Style]]></article-title>
+        </title-group>
+        <author-group>
+          <author english="Lee, Kyung Sook">이경숙(한국체육대학교)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[본 연구는 ‘메를로-퐁티의 현상학: 스타일 개념에서 본 댄스스포츠’라는 주제로, 현상학적 맥락에서 메를로-퐁티가 『간접적인 언어와 침묵의 목소리』에서 제시한 ‘스타일(style)’ 개념에 국한시켜, ‘댄스스포츠(dancesport)’에 적용될 수 있는 가능성을 모색하고자 하였다. 댄스스포츠에서 행위자(남녀커플)의 지각에 이미 내재되어 있는 스타일은 춤에서 어떻게 드러낼 수 있을까? 그것은 세계를 재현하는데 사용되는 수단이 아니며, 미에 대한 분석 혹은 역사적 맥락에 대한 해석이 아니라 지각의 현상에 토대를 둔다. 먼저 춤의 지각에 대한 관심은 그 근거가 되는 ‘주체(행위자, 남녀커플)’와 ‘세계의 본질’, 양자의 관계이다. 즉 남녀 커플에게 있어서 스타일은 ‘댄스스포츠(춤)의 표현기법’을 표현하는 과정에 스스로 설정해 놓은 ‘등가체계’이다. 이것이 예술가(행위자)의 세계에 접근하는 방식이면서 동시에 춤을 표현하는 방식으로 새로운 의미를 발견하게 된다. 그리고 춤의 종목별로 나타나는 의미를 표현하기 보다는 남녀커플의 의미가 춤에 스며드는 것이며, 지각과 대상(댄스스포츠)에 침투해 있는 남녀커플의 고유한 스타일을 형성하고, 춤을 통해 통일된 구체적인 표현기법을 통해 의미가 드러나도록 하는 것이다. 결국 메를로-퐁티의 스타일 개념을 통해 드러나는 것은, 댄스스포츠는 행위자가 춤의 표현기법을 통한 지각적 의미를 밖으로 드러내는 춤의 창조적인 남녀커플의 표현 활동이다.]]></abstract>
+          <abstract lang="english"><![CDATA[This study is based on the theme of ‘Merleau Ponty's Phenomenology: Dance Sport in the Concept of Style’. In the phenomenological context, this study tried to find the possibility of being applied to ‘dance sport’ by limiting to the concept of ‘style’ presented in 『Le visible et l'invisible』. How can the style already inherent in the actor's perception in dance sport be revealed in dance? It is not a means used to reproduce the world, and it is based on the phenomenon of perception, not on the analysis of beauty or the interpretation of historical context. First, the interest in the perception of dance is the relationship between the subject and the essence of the world, which is the basis. In other words, for male and female couples, style is an equivalent system set by oneself in expressing the expression technique of dance sport. This is the way to approach the artist's world and at the same time, to find new meanings in a way that expresses dance. And rather than expressing the meaning of each dance event, the meaning of male and female couples permeates dance, penetrating perception and object, forming a unique style of male and female couples and revealing meaning through concrete expression techniques unified through dance. In the end, what has been revealed through the concept of Merleau-Ponty's style is the expression activity of the creative male and female couple of dances. Through this the actor reveals the perceptual meaning through the expression technique of dance.]]></abstract>
+        </abstract-group>
+        <fpage>77</fpage>
+        <lpage>87</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.31694/PM.2022.09.30.3.006]]></doi>
+        <uci />
+        <citation-count kci="6" wos="0">6</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002880912]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>인문과학</journal-name>
+        <publisher-name>인문학연구원</publisher-name>
+        <pub-year>2024</pub-year>
+        <pub-mon>04</pub-mon>
+        <volume>130</volume>
+        <issue />
+      </journalInfo>
+      <articleInfo article-id="ART003076351">
+        <article-categories>기타인문학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[메를로-퐁티의 철학과 체화된 인지 이론의 관련성]]></article-title>
+          <article-title lang="foreign"><![CDATA[The Relationship Between the Philosophy of Merleau-Ponty and the Theory of Embodied Cognition]]></article-title>
+          <article-title lang="english"><![CDATA[The Relationship Between the Philosophy of Merleau-Ponty and the Theory of Embodied Cognition]]></article-title>
+        </title-group>
+        <author-group>
+          <author english="Sohee Lee">이소희(연세대학교)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[체화된 인지 이론의 한 갈래인 실행적 인지 이론은 객관적 과학과 주관적 경험 간의 ‘설명적 간극’을 극복하려는 동기에서 출발하여 ‘현상학의 자연화’를 기획하는데, 이를 실현할 수 있는 현상학에 고유한 방법은 ‘환원’이라고 할 수 있다. 현상학에서 환원이란 ‘자연적 태도’에 대한 ‘판단중지’인데, 메를로-퐁티는 후설 현상학에서 환원을 거쳐 ‘초월론적 의식’의 작용을 통해 세계의 존재를 구성하는 것을 비판한다. 그가 보기에, 이러한 환원의 방식은 관념론이라는 오명을 쓰기 쉽고, ‘경험의 현상적 특성’을 끝내 놓치고 마는 결과를 낳기 때문이다. 메를로-퐁티는 세계의 현상성을 드러내기 위해 그로부터 모든 현상이 끊임없이 솟구쳐 나오는 궁극적 근원으로서 ‘현상적 장’으로의 환원을 단행한다. 이러한 현상적 장으로의 환원은 객관적 과학이나 주관적 경험의 양자택일로 결코 환원될 수 없는 보다 근원적인 차원을 개시(開示)해 주는데, 여기서 메를로-퐁티 현상학과 실행적 인지 이론 간의 공통적인 문제의식과 지향점을 발견할 수 있다.
+또한 실행적 인지이론의 현상학의 자연화와 메를로-퐁티 현상학의 환원은 세계와 연루되어 있는 신체의 이중성으로 인해 가능할 수 있다. 후설은 3인칭적 관점에서 접근하는 몸으로서의 ‘객관적 신체’와 1인칭적 관점에서 체험하는 몸으로서의 ‘주관적 신체’를 구분하고 메를로-퐁티도 후설의 이러한 구분법에 따르고 있다. 실행적 인지 이론은 현상학에서 기술하는 신체의 이중성을 ‘체화’의 이중성으로 해석하며 주관성과 객관성이 동시에 나타나는 체화를 통해 현상학의 자연화 기획을 실현하려고 노력한다.
+다음으로 실행적 인지 이론의 현상학의 자연화를 중심으로 체화된 인지 이론과 메를로-퐁티의 현상학의 관련성을 본격적으로 탐구하기 위해 실행적 인지 이론에서 ‘생명’이 ‘자가생성’하는 자율적인 체계로서 ‘의미 만들기’를 통해 세계와 맺는 지향적 관계를 메를로-퐁티의 현상학에서 의식의 차원이 아닌 행동의 영역에서 성립하는 ‘신체적 지향성’ 및 ‘운동적 지향성’과 비교 분석한다.
+마지막으로 메를로-퐁티가 말한 신체가 ‘세계에로의 존재’로 존재하는 방식과 실행적 인지 이론에서 살아 있는 존재로서의 생명이 환경과 구조적으로 연합하여 뇌-몸-환경의 결합체를 형성하며 상호작용하는 과정을 대비하여 논의한다. 이렇게 함으로써 우리는 이 논문에서 메를로-퐁티 현상학을 통한 체화된 인지 이론에 대한 이해와 동시에 체화된 인지 이론을 통한 메를로-퐁티 현상학에 대한 이해라는 상호적 이해의 증진을 도모하고자 한다.]]></abstract>
+          <abstract lang="english"><![CDATA[As a branch of the theory of embodied cognition, enactive cognition theory aims to overcome ‘explanatory gap’ between objective science and subjective experience. ‘Reduction’ is a method unique to phenomenology aiming to “naturalize phenomenology”. Reduction is defined as the ‘epoche’ of ‘natural attitudes’ through which Merleau-Ponty criticizes the constitution of transcendental consciousness in Husserl’s phenomenology. In his view, this mode of reduction is susceptible to criticism and will neglect the ‘phenomenal character of experience.’ To reveal the phenomenality of the world, Merleau-Ponty implements reduction to a ‘phenomenal field’ as the ultimate source from which all phenomena arise. This reduction opens a more fundamental dimension that can never be reduced to either objective science or subjective experience, and it is here that we find the commonality between Merleau-Ponty's phenomenology and enactive cognition theory.
+Furthermore, naturalization of phenomenology and reduction in Merleau-Ponty's phenomenology may be possible due to the duality of the body in connivance with the world. Merleau-Ponty follows Husserl’s distinction between the ‘objective body(Körper)’ viewed from a third-person perspective, and the ‘subjective body(Leib),’ from a first-person perspective. Enactive cognition theory interprets the duality of the body as the duality of ‘embodiment’, and attempts to achieve naturalization of phenomenology through embodiment, where subjectivity and objectivity appear simultaneously.
+Next, to investigate the relevance of embodied cognition theory to Merleau-Ponty's phenomenology, we compare ‘life’ as an ‘autopoietic’ entity that autonomously interacts with the world through ‘sense-making’, with ‘the corporeal and motor intentionality’ that are established in the realm of action rather than consciousness in Merleau-Ponty's phenomenology.
+Finally, we contrast Merleau-Ponty's ‘being in the world’ with enactive cognitive theory, which suggests that living things exist in dynamic interaction with its environment, forming the ‘structural coupling.’ In doing so, we hope to foster a reciprocal understanding between the theory of embodied cognition and Merleau-Ponty’s phenomenology.]]></abstract>
+        </abstract-group>
+        <fpage>93</fpage>
+        <lpage>132</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.23017/inmun.2024.130..93]]></doi>
+        <uci />
+        <citation-count kci="8" wos="0">8</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003076351]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>현상학과 현대철학</journal-name>
+        <publisher-name>한국현상학회</publisher-name>
+        <pub-year>2023</pub-year>
+        <pub-mon>12</pub-mon>
+        <volume />
+        <issue>99</issue>
+      </journalInfo>
+      <articleInfo article-id="ART003034028">
+        <article-categories>철학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[코기토의 과거와 미래로써 메를로-퐁티의 암묵적 코기토]]></article-title>
+          <article-title lang="foreign"><![CDATA[Merleau-Ponty's “implicit cogito” as the past and future of the Cogito]]></article-title>
+          <article-title lang="english"><![CDATA[Merleau-Ponty's “implicit cogito” as the past and future of the Cogito]]></article-title>
+        </title-group>
+        <author-group>
+          <author english="PARK, Tchi Wan">박치완(한국외국어대학교)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[본 연구는 『지각의 현상학』의 제3부 1장(<코기토>)에 등장하는 ‘암묵적 코기토’에 대한 분석을 통해 M. 메를로-퐁티가 어떻게 R. 데카르트를 극복하고 E. 훗설과 대결하는지를 살펴보는 데 목표가 있다. ‘암묵적 코기토’는 데카르트의 그것처럼 ‘확실한 것’으로 정립된 코기토가 아니다. 메를로-퐁티에게 ‘코기토’는 확실성 위에 세워진 인식론적·형이상학적 토대가 아니라 ‘체험의 장’이다. 체험의 장에서 주체(‘나’)는 ‘생각’하고 ‘반성’하는 존재가 아니라 자신의 신체적 감각기관을 통해 직접 ‘느끼고 보는’ 존재이다. 이런 점에서 메를로-퐁티의 ‘암묵적 코기토’는 반성 이전에 세계와 접촉하는 코기토라 할 수 있다. 세계와 접촉하는 코기토는 메를로-퐁티에게 있어 곧 ‘나-자신’이다. 세계와 접촉한다는 것은 세계를 지각한다는 의미다. 그런데 메를로-퐁티에게 지각은 어디까지나 미완성으로써의 지각이며, 오류의 위험에 노출될 가능성을 전제로 한다. 같은 논리로 메를로-퐁티는 훗설의 현상학적 의식도 우리에게 명증한 것으로 나타나는 것이 아니라 늘 구석진 곳, 홈 파인 곳, 틈과 함께 존재하며, 심지어는 역사적 침전물들, 감각적 함축들과 함께 존재한다고 말한다. 그런즉 이미 규정된 의미, 고착된 개념, 이념, 원리, 규칙을 버리고 현상-세계에 직접 다가서라는 것이 메를로-퐁티의 요구다. 메를로-퐁티가 훗설의 명시적 의식을 부정한 것이나 환원의 불가능성을 강조한 것도 이런 이유 때문이다. 메를로-퐁티의 철학에 자칭타칭 ‘애매성의 철학’이라는 꼬리표가 달라붙는 이유 또한 여기에 있다. 하지만 애매성은 메를로-퐁티에게 확실성을 정초짓는데 기여하는 것이지 결코 확실성을 위협하는 것은 아니다. 애매성은 그에게 철학함(사고함, 지각함)에 있어 결코 부차적인 것이 아니라 ‘무한한 사고의 이면’이다. 정확히 이점에 있어서 메를로-퐁티의 <코기토>는 데카르트나 훗설의 재판(再版)이나 중판(重版)이 아니라 ‘코기토’의 미래를 제시하고 있다. ‘암묵적 코기토’가 ‘명시적 코기토’가 되는 그날까지 우리는 세계를 ‘보고 또 보는’ 법을 읽혀야 할 것이다.]]></abstract>
+          <abstract lang="english"><![CDATA[This study examines how M. Merleau-Ponty overcomes R. Descartes and confronts E. Husserl by analyzing of the “implicit cogito” in Part 3, chap. 1 (<Cogito>) of Phenomenology of Perception. The “implicit cogito” is not a cogito established as a “certain thing” like Descartes’. For Merleau-Ponty, “Cogito” is not an epistemological, metaphysical foundation built on certainty, but a “field of experience.” In the field of experience, the subject (“I”) is not a being who “thinks” and “reflects”, but a being who ‘feels and sees’ directly through his or her sense organs. In this respect, Merleau-Ponty's “implicit cogito” can be said to be a cogito that contacts the world before reflection. The cogito that comes into contact with the world is “I-self” for Merleau-Ponty. Contacting the world means perceiving the world. However, for Merleau-Ponty, perception is incomplete and presupposes the possibility of being exposed to the risk of error. By the same logic, Merleau-Ponty's phenomenological consciousness does not appear to us as something clear. However, it always exists with corners, grooves, gaps, and even historical sediments and sensory implications. Therefore, Merleau-Ponty's demand is to discard already defined meanings, fixed concepts, ideologies, principles, and rules and directly approach the world of phenomena. That is why Merleau-Ponty denied Husserl's explicit consciousness and emphasized the impossibility of reduction. That is also why Merleau-Ponty's philosophy is labeled as the self-proclaimed “philosophy of ambiguity”. However, for Merleau-Ponty, ambiguity contributes to establishing certainty and never threatens it. For him, ambiguity is not secondary to philosophizing (thinking, perceiving), but is “the other side of infinite thinking”. Precisely in this regard, Merleau-Ponty's <Cogito> is not a reprint or re-edition of Descartes or Husserl, but presents the future of the “cogito”. Until the day “implicit cogito” becomes “explicit cogito”, we will have to see the world and learn how to see it again.]]></abstract>
+        </abstract-group>
+        <fpage>57</fpage>
+        <lpage>104</lpage>
+        <doi />
+        <uci />
+        <citation-count kci="0" wos="0">0</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003034028]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+    </record>
+  </outputData>
+</MetaData>

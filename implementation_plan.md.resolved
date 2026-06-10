@@ -1,0 +1,61 @@
+# KCI Open API 기반 데이터 파이프라인 고도화 로드맵
+
+전달해주신 API KEY 활용 가이드의 핵심 전략을 완벽히 이해했습니다. 
+단순한 텍스트 파싱을 넘어, **KCI 고유 식별자(REFARTIID)를 통한 100% 신뢰도의 1:1 하드 링크 구축**과 **KPI 데이터(인용지수 등) 확보**라는 본질에 깊이 공감합니다. 이를 가장 견고하게 구현하기 위한 파이프라인 구축 계획입니다.
+
+## ⚠️ User Review Required
+> [!IMPORTANT]
+> **API 호출 소요 시간 및 Rate Limit 확인**
+> 현재 KCI API의 Rate Limit에 맞춰 1초당 1~2건의 호출(Exponential Backoff 적용)을 진행할 경우, 약 600개의 논문에 대해 `referenceSearch`와 `citationDetail`을 호출하는 데 일정 시간(약 10~20분 이상)이 소요될 수 있습니다. 
+> 이 부분을 일괄 배치 스크립트로 진행할지, 아니면 캐싱(로컬 JSON/DB 형태)을 두어 중간에 끊기더라도 이어서 작업할 수 있도록 할지 결정이 필요합니다. (캐싱 적용을 적극 권장합니다.)
+
+## ❓ Open Questions
+- **배포 환경 IP 확인**: 로컬 개발 PC에서는 문제가 없더라도, 향후 서버 배포 시 고정 IP를 KCI에 등록해야 합니다. 현재 대시보드의 최종 호스팅 대상(로컬 전용, 혹은 Vercel/AWS 배포)이 정해져 있나요?
+- **기존 데이터 포맷 연동**: 새로 받아온 `REFARTIID`와 인용지표(IF)를 `퐁티_전처리완료.csv`에 새로운 컬럼으로 병합하여 저장하는 형태로 진행하면 될까요?
+
+---
+
+## Proposed Changes
+
+### 1. 패키지 의존성 관리 및 환경 설정
+새로운 파이프라인의 안전성과 성능을 보장하기 위한 필수 패키지를 설치합니다.
+
+#### [NEW] `requirements.txt` (업데이트 혹은 신규 생성)
+- `lxml`: 고속 XML 파싱 및 메모리 효율성
+- `ratelimit`: 1초당 1~2건 API 호출 속도 제어 데코레이터
+- `tenacity`: 네트워크 순단 시 지수 백오프(Exponential Backoff) 기반 재시도 로직
+- `python-dotenv`: `.env` 파일 로드 지원 (`os.getenv("KCI_API_KEY")`)
+
+### 2. KCI API 클라이언트 모듈 (Core)
+견고한 파이프라인의 뼈대가 될 단일 책임 원칙에 입각한 API 클라이언트를 구축합니다.
+
+#### [NEW] `kci_api.py`
+- `KciApiClient` 클래스 구현
+- `.env`에서 `KCI_API_KEY` 로드
+- `@sleep_and_retry` 및 `@limits(calls=1, period=1)` 적용으로 KCI 서버 부하 방지
+- `@retry(wait=wait_exponential(multiplier=1, min=2, max=10), stop=stop_after_attempt(5))`를 통한 안전한 재시도 로직
+- **주요 메서드**:
+  - `fetch_reference_search(article_id)`: 특정 논문의 참고문헌 목록(REFARTIID 포함) XML을 요청하고 파싱.
+  - `fetch_citation_detail(article_id)`: 학술지 IF, 자기인용비율 등 KPI 획득.
+
+### 3. 데이터 병합 스크립트 (Integration)
+API 클라이언트를 통해 수집한 데이터를 기존 엑셀/CSV 데이터와 연결합니다.
+
+#### [NEW] `update_kci_data.py` (또는 기존 전처리 코드와 통합)
+- `퐁티_전처리완료.csv` 로드
+- 각 논문 row를 순회하며 `kci_api.py` 호출
+- **캐싱(Caching) 시스템 도입**: 이미 처리한 `article_id`는 로컬(예: `kci_cache/`)에 저장하여 스크립트 재시작 시 중복 호출 방지
+- **최종 출력**: `퐁티_KCI_통합완료.csv` (기존 컬럼 + `ref_arti_ids`, `impact_factor`, `self_citation_rate` 등)
+
+---
+
+## Verification Plan
+
+### Automated Tests
+- 단일 논문 ID(예: 메를로-퐁티 주요 논문)를 대상으로 `kci_api.py` 테스트 스크립트 구동
+- 반환된 XML 데이터가 `lxml`을 통해 정상적으로 파싱되어 `REFARTIID`와 `IF`를 추출하는지 검증
+- 인위적으로 빠른 호출을 시도하여 `ratelimit`과 `tenacity`의 지연/재시도 로직이 정상 작동하는지 로그 확인
+
+### Manual Verification
+- 완성된 데이터셋(`퐁티_KCI_통합완료.csv`)의 일부 샘플을 KCI 웹사이트의 실제 데이터와 대조.
+- 대시보드 로직에 이 새로운 데이터셋을 연결하여 KPI 카드와 네트워크 그래프가 끊김 없이 출력되는지 육안 확인.
